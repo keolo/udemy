@@ -25,4 +25,4 @@ class Bloc with Validators {
 }
 
 // Global instance of bloc.
-final bloc = Bloc();
+// final bloc = Bloc();
